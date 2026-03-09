@@ -20,8 +20,7 @@ Restricciones:
 Ejercicio 2: Distancia Euclidiana entre dos Puntos
 Problema: Solicitar al usuario las coordenadas de dos puntos en un plano cartesiano:
 P1(x1, y1) y P2(x2, y2). 
-Calcular la distancia lineal entre ambos puntos utilizando la fór-
-mula:
+Calcular la distancia lineal entre ambos puntos utilizando la fórmula:
 d= (x2− x1)2 + (y2− y1)2
 
 Restricciones:
